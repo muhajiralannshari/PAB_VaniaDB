@@ -1,3 +1,21 @@
+# NPM     : 5210411082 <br />
+# NAMA    : YUSNAN ADI KUSUMA <br />
+# KELAS   : PENGEMBANGAN MOBILE LANJUT - E <br />
+
+# /----------- DOKUMENTASI -----------/
+DATABASE HASIL MIGRATION
+![Hasil Migrate] 
+
+
+
+
+
+
+
+
+
+
+
 
 # Vania Dart backend framework
 
