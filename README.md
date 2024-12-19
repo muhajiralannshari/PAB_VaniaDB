@@ -3,6 +3,24 @@
 # KELAS   : PENGEMBANGAN MOBILE LANJUT - E <br />
 
 # /----------- DOKUMENTASI -----------/
+# Models Structure 
+![App Screenshot](https://github.com/muhajiralannshari/PAB_VaniaDB/blob/main/models.png)
+# Final Database
+![App Screenshot](https://github.com/muhajiralannshari/PAB_VaniaDB/blob/main/final%20database.png)
+# Controllers Structure
+![App Screenshot](https://github.com/muhajiralannshari/PAB_VaniaDB/blob/main/controller%20.png)
+# Postman creat
+![App Screenshot](https://github.com/muhajiralannshari/PAB_VaniaDB/blob/main/CREATE.png)
+# Postman read all
+![App Screenshot](https://github.com/muhajiralannshari/PAB_VaniaDB/blob/main/GET%20ALL.png)
+# Postman Read by ID
+![App Screenshot](https://github.com/muhajiralannshari/PAB_VaniaDB/blob/main/READ%20BY%20ID.png)
+# Postman Update
+![App Screenshot](https://github.com/muhajiralannshari/PAB_VaniaDB/blob/main/PUT.png)
+# Postman DELETE
+![App Screenshot](https://github.com/muhajiralannshari/PAB_VaniaDB/blob/main/DELETE.png)
+
+
 DATABASE HASIL MIGRATION
 ![Hasil Migrate] 
 
