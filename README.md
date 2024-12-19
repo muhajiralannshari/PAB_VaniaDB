@@ -21,8 +21,7 @@
 ![App Screenshot](https://github.com/muhajiralannshari/PAB_VaniaDB/blob/main/DELETE.png)
 
 
-DATABASE HASIL MIGRATION
-![Hasil Migrate] 
+
 
 
 
